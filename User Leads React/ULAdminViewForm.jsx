@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import userLeadService from "services/userLeadsService";
 import toastr from "toastr";
-import debug from "sabio-debug";
+import debug from "MoneFi-debug";
 import "./userleadsstyle.css";
 import Pagination from "rc-pagination";
 import locale from "rc-pagination/lib/locale/en_US";
