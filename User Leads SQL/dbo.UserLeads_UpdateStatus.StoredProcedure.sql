@@ -1,4 +1,3 @@
-
 CREATE proc [dbo].[UserLeads_UpdateStatus]
 				@Id int,
 				@StatusId int
@@ -16,4 +15,3 @@ WHERE [Id] = @Id
 
 
 END
-GO
