@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Sabio.Models.Requests
+namespace MoneFi.Models.Requests
 {
     public class UserLeadAddRequest
     {
