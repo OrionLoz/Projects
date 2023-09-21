@@ -1,9 +1,9 @@
-﻿using Sabio.Models;
-using Sabio.Models.Domain.UserLeads;
-using Sabio.Models.Requests;
+﻿using MoneFi.Models;
+using MoneFi.Models.Domain.UserLeads;
+using MoneFi.Models.Requests;
 using System;
 
-namespace Sabio.Services
+namespace MoneFi.Services
 {
     public interface IUserLeadService
     {
