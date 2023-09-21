@@ -1,11 +1,11 @@
-﻿using Sabio.Models.Requests;
+﻿using MoneFi.Models.Requests;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Domain.UserLeads
+namespace MoneFi.Models.Domain.UserLeads
 {
     public class UserLeadBase : UserLeadNotesUpdateRequest
     {
