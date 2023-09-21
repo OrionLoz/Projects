@@ -1,17 +1,17 @@
-﻿using Sabio.Data.Providers;
+﻿using MoneFi.Data.Providers;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Data;
-using Sabio.Models.Domain;
-using Sabio.Data;
-using Sabio.Models.Requests;
-using Sabio.Models.Domain.UserLeads;
-using Sabio.Models;
+using MoneFi.Models.Domain;
+using MoneFi.Data;
+using MoneFi.Models.Requests;
+using MoneFi.Models.Domain.UserLeads;
+using MoneFi.Models;
 using System;
-using Sabio.Services.Interfaces;
-using Sabio.Models.Requests.Blogs;
+using MoneFi.Services.Interfaces;
+using MoneFi.Models.Requests.Blogs;
 
-namespace Sabio.Services
+namespace MoneFi.Services
 {
     public class UserLeadService :IUserLeadService
     {
