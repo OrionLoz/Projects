@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Requests
+namespace MoneFi.Models.Requests
 {
     public class UserLeadNotesUpdateRequest
     {
