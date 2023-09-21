@@ -1,0 +1,121 @@
+/*Background CSS*/
+.user-lead-background {
+  background-color: rgba(233, 251, 246);
+}
+
+.user-lead-background-image {
+  background-image: url(/src/assets/images/userleadsform/Rectangle\ 8191.jpg);
+  background-size: cover;
+}
+/*Background CSS End*/
+
+/* Form CSS */
+.form-padding {
+  padding-top: 100px;
+  padding-right: 40px;
+  padding-left: 50px;
+  justify-items: center;
+}
+
+.fieldStyle {
+  border: 0.5px solid #cccccc33;
+  border-radius: 10px;
+  background-color: rgba(171, 215, 201, 0.4);
+  padding: 8px;
+}
+.form-heading {
+  font-weight: 600;
+  font-size: 55px;
+}
+
+button.submitButton {
+  width: 150px;
+  padding: 7px;
+  margin-top: 20px;
+  background: rgb(107, 255, 102);
+  background: linear-gradient(
+    90deg,
+    rgba(107, 255, 102, 1) 0%,
+    rgba(0, 151, 181, 1) 100%
+  );
+  color: white;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 151, 181, 1);
+}
+
+.button-spacing {
+  padding-bottom: 25px;
+}
+/* End Form CSS */
+
+/* Top Page CSS */
+.large-button {
+  height: 60px;
+  scale: 110%;
+}
+
+.top-page-padding {
+  padding-top: 300px;
+  padding-bottom: 300px;
+  padding-left: 25px;
+}
+
+.heading-style {
+  color: white;
+}
+
+/* End Top Page CSS */
+
+/* Image CSS */
+.user-lead-image {
+  scale: 75%;
+  transform: translate(0px, -100px);
+  padding-left: 35px;
+  justify-items: center;
+  filter: drop-shadow(-12px 20px 10px #0000009f);
+}
+/* End Image CSS */
+
+/*Label CSS*/
+.label-padding {
+  padding: 8px;
+}
+/*End Label CSS*/
+
+/*UserLead Admin CSS*/
+.edit-button {
+  background-color: rgb(24, 17, 60);
+  border-radius: 10px;
+  padding-right: 5px;
+}
+
+.notes-field {
+  margin-bottom: 8px;
+}
+
+.pill-button {
+  background-color: rgb(117, 79, 254);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.admin-heading-style {
+  color: black;
+  font-weight: bold;
+  padding-left: 12px;
+}
+/*End UserLead Admin CSS*/
