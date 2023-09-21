@@ -1,5 +1,3 @@
-
-
 CREATE proc [dbo].[UserLeads_UpdateNotes]
 				@Id int,
 				@Notes nvarchar(255)
