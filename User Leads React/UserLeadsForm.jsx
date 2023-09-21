@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import userLeadService from "services/userLeadsService";
 import lookUpService from "services/lookUpService";
 import { Formik, Form, Field } from "formik";
-import debug from "sabio-debug";
+import debug from "MoneFi-debug";
 import "./userleadsstyle.css";
 import toastr from "toastr";
 import iphone from "../../assets/images/png/Group289272.png";
