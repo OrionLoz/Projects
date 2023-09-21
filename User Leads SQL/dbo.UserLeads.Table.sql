@@ -1,4 +1,3 @@
-
 ALTER TABLE 	[dbo].[UserLeads](
 		[Id] [int] IDENTITY(1,1) NOT NULL,
 		[Email] [nvarchar](255) NOT NULL,
